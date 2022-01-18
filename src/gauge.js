@@ -232,7 +232,7 @@
       function initializeGauge(elem) {
         gaugeValueElem = svg("text", {
           x: 50,
-          y: 50,
+          y: 80,
           fill: "#999",
           "class": valueTextClass,
           "font-size": "100%",
